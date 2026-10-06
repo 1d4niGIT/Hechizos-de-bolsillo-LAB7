@@ -1,0 +1,1 @@
+ public enum EfectoEstado { Quemar, Congelar, Envenenar, Electrocutar, Ralentizar }
